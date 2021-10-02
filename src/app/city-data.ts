@@ -3,4 +3,5 @@ export interface CityData{
     longitude:number,
     state:string,
     cityName ?: string
+    
 }
