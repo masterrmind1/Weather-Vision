@@ -105,3 +105,4 @@ Deployment from the master branch - [myApp](https://project-bond-e6798.web.app)
   - Angular material 12.2.0
   - ngx-indexed-db 6.1.2
 
+
