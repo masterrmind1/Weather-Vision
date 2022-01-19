@@ -1,6 +1,6 @@
-## Weather Vision (PWA)
+# Weather Vision (PWA) 
 ![maya72](https://user-images.githubusercontent.com/85214168/135712518-80037a71-1eb1-4e74-86e3-c1b5364a3013.png)
-
+## In progrss - currently one issue is there(refresh once to the weather detailed page of perticular city to save cache).
 A flexible responsive web app to check the weather details of current location as well as that of the 
 different areas of all the cities in india,also check pollution status of different areas of diferent cities.
 ### Here is [Live Link](https://project-bond-e6798.web.app) 
